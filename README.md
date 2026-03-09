@@ -172,51 +172,6 @@ This means **richer, more meaningful insights**—whether you're analyzing a **d
 
 ---
 
-## 🤝 **Contributing**
-This project is **open-source**.  
-Want to improve it? **Fork the repo, contribute, or suggest features!**  
-
----
-
-## 📜 **License**
-Licensed under the **MIT License**.
-
----
-
-## 🙌 **Acknowledgments**
-Thanks to:
-- **Ultralytics** (YOLO)
-- **OpenAI** (Whisper)
-- **Salesforce** (BLIP)
-- **Hugging Face** (Model Hosting)
-- **Ollama** (On-device LLMs)
-
----
-
-### **✨ Final Thoughts**
-This is **not just a video processing tool**—it’s a **local AI-powered storytelling engine**.
-
-🚀 **Turn your raw videos into AI-generated narratives.**  
-🔒 **Keep your data private.**  
-🧠 **Understand your videos like never before.**  
-
----
-
-## 📖 References
-For more details on the AI models used in this project, see:
-
-- **YOLOv11 (Object Detection)**: A state-of-the-art real-time detection model with improved feature extraction and efficiency.  
-  *Khanam, R., & Hussain, M. (2024).* [arXiv:2410.17725](https://arxiv.org/abs/2410.17725)
-
-- **Whisper (Speech Recognition)**: A robust model for multilingual speech-to-text conversion.  
-  *Radford, A., et al. (2022).* [arXiv:2212.04356](https://arxiv.org/abs/2212.04356)
-
-- **BLIP (Image Captioning)**: A vision-language model that generates natural language descriptions of images.  
-  *Li, J., et al. (2022).* [arXiv:2201.12086](https://arxiv.org/abs/2201.12086)
-
-- **PANNs (Audio Event Detection)**: A neural network designed to recognize environmental sounds and music.  
-  *Kong, Q., et al. (2020).* IEEE/ACM Transactions on Audio, Speech, and Language Processing.  
-
 
 
 
